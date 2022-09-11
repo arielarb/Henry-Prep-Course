@@ -1,0 +1,51 @@
+h1{
+    color:blueviolet
+}
+
+img{
+    width: 400px
+}
+
+.myName{
+    text-align: center; 
+    border: 1px solid green;
+    background-color: rgb(198, 174, 174);
+    padding: 10px;
+
+
+    
+}
+.myName1{
+    text-align: center; 
+    border: 1px solid green;
+    background-color: rgb(105, 183, 122);
+    padding: 10px;
+
+
+    
+}
+.myName2{
+    text-align: center; 
+    border: 1px solid green;
+    background-color: red;
+    padding: 10px;
+
+
+    
+}
+
+
+
+
+#thirdDiv{
+    background-color: aliceblue;
+    height: 600px;
+    width: 500px;
+    padding: 50px blue;
+    border: 10px rebeccapurple solid;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
